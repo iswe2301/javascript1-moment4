@@ -1,4 +1,7 @@
 # Labbgrund till Moment 4 i kursen DT084G, Introdktion till programmering i JavaScript
-Använd dessa filer som grund till din laboration.
 
-OBS: Uppdatera texten i denna README-fil så att den beskriver din labb, samt inkludera ditt namn och student-id.
+* Isa Westling
+* iswe2301
+* Moment 4 - DOM och Events
+
+I denna uppgift har jag arbetat med DOM, händelsehanterare och Web Storage API.
