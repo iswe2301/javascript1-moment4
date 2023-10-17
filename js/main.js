@@ -64,6 +64,9 @@ function addItem() {
     // Klickhanterare som raderar elementen vid klick, anropar anonym funktion
     newEl.addEventListener("click", function (e) {
         e.target.remove();
+
+        // Lagrar listan på nytt
+        storeItem();
     });
 
     // Rensar input-fält efter lyckad lagring
